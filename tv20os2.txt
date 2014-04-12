@@ -1,0 +1,24 @@
+                  Team/2 Russia presents
+
+        OS/2 port of Turbo Vision 2.0 C++ for UNIX.
+
+Original source file from www.FreeBSD.prg: tvision-0.6.tar.gz
+
+Compiler: Borland C++ 2.0 for OS/2
+Date of port: June 11 1999
+
+Notes for other OS/2 compilers:
+        EMX 0.9d is too thicky and slowly
+        Watcom 10 does not support virtual functions with (...) arguments
+
+Sites to upload:
+http://hobbes.nmsu.edu/pub/incoming
+ftp://oksoft.rsl.ru/incoming
+ftp://ftp.cdrom.com
+
+Participants of TV2/2 project:
+        Andy Hohutkin aka Orlik.
+                Contact me:
+                a) by e-mail: Andy@vdonsk.ru
+                b) via IRC: irc.mo.net:6666 #os2russian
+                c) ICQ: 1271675

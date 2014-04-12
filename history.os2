@@ -1,0 +1,17 @@
+June 07, 1999:
+	SCO Console escape-codes now emulated for using library via telnet.
+June 03, 1999:
+	In TCollection.cpp error() disabled.
+	Method indexOf() now returns -1 if value not found
+June 02, 1999:
+	In dialogs.h some members of TInputLine class moved from
+	private to protected to make easy using draw() method.
+May 31, 1999:
+	Now mouse pointer is visible any time.
+First release:
+	system.cpp is fully rewritten.
+	asm.cpp is partially changed
+	Keyboard and mouse OS/2 support using Kbd* and Mou* calls.
+	Video output also fully rewritten using Vio* calls.
+	Codepage support added in tv.h allows to search in TEditor class.
+	Russian characters are now available at TMenuBar class.
